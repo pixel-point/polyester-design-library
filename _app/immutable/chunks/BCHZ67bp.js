@@ -1,0 +1,1 @@
+var e=new Map,t=new Set;function n(n,r){e.set(n,r),t.delete(n)&&(r.stop(),r.play())}function r(n){e.delete(n),t.delete(n)}function i(n){let r=e.get(n);if(r){r.stop(),r.play();return}t.add(n)}export{n,r,i as t};
