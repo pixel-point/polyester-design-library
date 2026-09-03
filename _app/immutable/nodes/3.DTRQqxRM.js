@@ -1,4 +1,4 @@
-import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,T as u,U as d,V as f,W as p,Z as m,a as h,b as g,bt as _,c as v,dt as y,ft as b,g as x,gt as S,h as C,i as w,j as T,kt as E,lt as D,n as O,nt as k,ot as A,pt as j,s as M,st as ee,ut as N,vt as P,x as F,xt as I,z as te}from"../chunks/Bu_klV3G.js";import{s as L}from"../chunks/5W3F_WD1.js";import"../chunks/xihTtKlq.js";import{a as R,i as z,n as B,o as ne,r as re}from"../chunks/Bu6pMP3p.js";import{t as V,u as H}from"../chunks/dBd67hzr.js";import{V as U,a as ie,d as ae,g as W,i as oe,n as se,r as ce,t as G,x as le}from"../chunks/BuEvWI_Q.js";var K=new Set([`$$slots`,`$$events`,`$$legacy`]),ue=f(`<svg><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16 18l6-6l-6-6M8 6l-6 6l6 6"></path></svg>`);function de(e,t){let n=h(t,K);var r=ue();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var fe=new Set([`$$slots`,`$$events`,`$$legacy`]),q=f(`<svg><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></g></svg>`);function J(e,t){let n=h(t,fe);var r=q();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var pe=new Set([`$$slots`,`$$events`,`$$legacy`]),Y=f(`<svg><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"></path></svg>`);function me(e,t){let n=h(t,pe);var r=Y();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var he=new Set([`$$slots`,`$$events`,`$$legacy`]),ge=f(`<svg><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41m11.32 11.32l1.41 1.41M2 12h2m16 0h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path></g></svg>`);function _e(e,t){let n=h(t,he);var r=ge();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var ve=new Set([`$$slots`,`$$events`,`$$legacy`]),ye=f(`<svg><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 22a1 1 0 0 1 0-20a10 9 0 0 1 10 9a5 5 0 0 1-5 5h-2.25a1.75 1.75 0 0 0-1.4 2.8l.3.4a1.75 1.75 0 0 1-1.4 2.8z"></path><circle cx="13.5" cy="6.5" r=".5" fill="currentColor"></circle><circle cx="17.5" cy="10.5" r=".5" fill="currentColor"></circle><circle cx="6.5" cy="12.5" r=".5" fill="currentColor"></circle><circle cx="8.5" cy="7.5" r=".5" fill="currentColor"></circle></g></svg>`);function be(e,t){let n=h(t,ve);var r=ye();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var xe=new Set([`$$slots`,`$$events`,`$$legacy`]),Se=f(`<svg><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h10v10M7 17L17 7"></path></svg>`);function Ce(e,t){let n=h(t,xe);var r=Se();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var we=new Set([`$$slots`,`$$events`,`$$legacy`]),Te=f(`<svg><path fill="currentColor" d="M11.955 11.296c-.177.086-.357-.008-.387-.194l-.002-.002c-.44-2.689-1.358-5.326-2.67-7.767-.088-.169-.051-.374.089-.438 1.319-.627 3.401.416 4.47 2.716 1.076 2.3.274 4.87-1.5 5.685"></path><path fill="currentColor" fill-rule="evenodd" d="M0 8.088a8.088 8.088 0 1 1 16.175 0A8.088 8.088 0 0 1 0 8.088M5.356 9.12c1.305 3.071 4.381 4.702 6.873 3.644s3.456-4.406 2.152-7.476c-1.304-3.072-4.38-4.703-6.873-3.644C5.016 2.702 4.052 6.05 5.356 9.12" clip-rule="evenodd"></path></svg>`);function Ee(e,t){let n=h(t,we);var r=Te();C(r,()=>({fill:`currentColor`,xmlns:`http://www.w3.org/2000/svg`,width:`17`,height:`17`,viewBox:`0 0 17 17`,...n})),c(e,r)}var De=`@import "tailwindcss";
+import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,T as u,U as d,V as f,W as p,Z as m,a as h,b as g,bt as _,c as v,dt as y,ft as b,g as x,gt as S,h as C,i as w,j as T,kt as E,lt as D,n as O,nt as k,ot as A,pt as j,s as M,st as ee,ut as N,vt as P,x as F,xt as I,z as te}from"../chunks/Bu_klV3G.js";import{s as L}from"../chunks/CrzVpyJo.js";import"../chunks/xihTtKlq.js";import{a as R,i as z,n as B,o as ne,r as re}from"../chunks/Bu6pMP3p.js";import{t as V,u as H}from"../chunks/dBd67hzr.js";import{V as U,a as ie,d as ae,g as W,i as oe,n as se,r as ce,t as G,x as le}from"../chunks/BuEvWI_Q.js";var K=new Set([`$$slots`,`$$events`,`$$legacy`]),ue=f(`<svg><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16 18l6-6l-6-6M8 6l-6 6l6 6"></path></svg>`);function de(e,t){let n=h(t,K);var r=ue();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var fe=new Set([`$$slots`,`$$events`,`$$legacy`]),q=f(`<svg><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></g></svg>`);function J(e,t){let n=h(t,fe);var r=q();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var pe=new Set([`$$slots`,`$$events`,`$$legacy`]),Y=f(`<svg><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"></path></svg>`);function me(e,t){let n=h(t,pe);var r=Y();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var he=new Set([`$$slots`,`$$events`,`$$legacy`]),ge=f(`<svg><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41m11.32 11.32l1.41 1.41M2 12h2m16 0h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path></g></svg>`);function _e(e,t){let n=h(t,he);var r=ge();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var ve=new Set([`$$slots`,`$$events`,`$$legacy`]),ye=f(`<svg><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 22a1 1 0 0 1 0-20a10 9 0 0 1 10 9a5 5 0 0 1-5 5h-2.25a1.75 1.75 0 0 0-1.4 2.8l.3.4a1.75 1.75 0 0 1-1.4 2.8z"></path><circle cx="13.5" cy="6.5" r=".5" fill="currentColor"></circle><circle cx="17.5" cy="10.5" r=".5" fill="currentColor"></circle><circle cx="6.5" cy="12.5" r=".5" fill="currentColor"></circle><circle cx="8.5" cy="7.5" r=".5" fill="currentColor"></circle></g></svg>`);function be(e,t){let n=h(t,ve);var r=ye();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var xe=new Set([`$$slots`,`$$events`,`$$legacy`]),Se=f(`<svg><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h10v10M7 17L17 7"></path></svg>`);function Ce(e,t){let n=h(t,xe);var r=Se();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var we=new Set([`$$slots`,`$$events`,`$$legacy`]),Te=f(`<svg><path fill="currentColor" d="M11.955 11.296c-.177.086-.357-.008-.387-.194l-.002-.002c-.44-2.689-1.358-5.326-2.67-7.767-.088-.169-.051-.374.089-.438 1.319-.627 3.401.416 4.47 2.716 1.076 2.3.274 4.87-1.5 5.685"></path><path fill="currentColor" fill-rule="evenodd" d="M0 8.088a8.088 8.088 0 1 1 16.175 0A8.088 8.088 0 0 1 0 8.088M5.356 9.12c1.305 3.071 4.381 4.702 6.873 3.644s3.456-4.406 2.152-7.476c-1.304-3.072-4.38-4.703-6.873-3.644C5.016 2.702 4.052 6.05 5.356 9.12" clip-rule="evenodd"></path></svg>`);function Ee(e,t){let n=h(t,we);var r=Te();C(r,()=>({fill:`currentColor`,xmlns:`http://www.w3.org/2000/svg`,width:`17`,height:`17`,viewBox:`0 0 17 17`,...n})),c(e,r)}var De=`@import "tailwindcss";
 @import "tw-animate-css";
 @import "./theme-blue.css";
 @import "./theme-warm.css";
@@ -2405,11 +2405,7 @@ import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,
 	--divider-primary: var(--gray-2-5);
 	--divider-secondary: var(--gray-5);
 	--divider-brand: oklch(0.649 0.247 8.956);
-	--chart-grid-line: color-mix(
-		in oklch,
-		var(--divider-primary) 70%,
-		var(--divider-secondary) 30%
-	);
+	--chart-grid-line: var(--divider-primary);
 
 	/* --- Pills --- */
 	--pill-primary: var(--gray-5);
@@ -3432,8 +3428,7 @@ import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,
 @utility material-button-action-secondary-static {
 	background-color: var(--button-action-secondary-fill-base);
 	background-image:
-		var(--button-action-secondary-fill-highlight),
-		var(--button-action-secondary-fill),
+		var(--button-action-secondary-fill-highlight), var(--button-action-secondary-fill),
 		var(--button-action-secondary-outline);
 	background-origin: padding-box, padding-box, border-box;
 	background-clip: padding-box, padding-box, border-box;
@@ -5167,35 +5162,30 @@ html.dark .shiki-code .shiki[style*="--shiki-dark"] span:not([class^="doc-shell-
 		-moz-osx-font-smoothing: grayscale;
 		-webkit-tap-highlight-color: transparent;
 		color-scheme: light;
-		background-color: #fdfcfc;
+		background-color: var(--background-page);
 		font-family: "Inter Variable", Inter, sans-serif;
 		min-height: 100%;
 		min-height: 100dvh;
-		overscroll-behavior-y: none;
+		overscroll-behavior-y: contain;
 	}
 
 	html.dark {
 		color-scheme: dark;
-		background-color: #0b0b0f;
 	}
 
 	body {
 		@apply bg-background-page;
-		background-color: #fdfcfc;
+		background-color: var(--background-page);
 		margin: 0;
 		min-height: 100%;
 		min-height: 100dvh;
-		overscroll-behavior-y: none;
+		overscroll-behavior-y: contain;
 		padding: 0;
 		width: 100%;
 		-webkit-text-size-adjust: 100%;
 		-webkit-tap-highlight-color: transparent;
 		text-rendering: optimizeLegibility;
 		touch-action: manipulation;
-	}
-
-	.dark body {
-		background-color: #0b0b0f;
 	}
 
 	* {
