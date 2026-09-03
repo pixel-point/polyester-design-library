@@ -1,9 +1,10 @@
-import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,T as u,U as d,V as f,W as p,Z as m,a as h,b as g,bt as _,c as v,dt as y,ft as b,g as x,gt as S,h as C,i as w,j as T,kt as E,lt as D,n as O,nt as k,ot as A,pt as j,s as M,st as ee,ut as N,vt as P,x as F,xt as I,z as te}from"../chunks/Bu_klV3G.js";import{s as L}from"../chunks/CbUlLgpn.js";import"../chunks/xihTtKlq.js";import{a as R,i as z,n as B,o as ne,r as re}from"../chunks/IcsavTOA.js";import{c as V,t as H}from"../chunks/DgnE17Z3.js";import{V as U,a as ie,d as ae,g as W,i as oe,n as se,r as ce,t as G,x as le}from"../chunks/DG6HLrfZ.js";var K=new Set([`$$slots`,`$$events`,`$$legacy`]),ue=f(`<svg><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16 18l6-6l-6-6M8 6l-6 6l6 6"></path></svg>`);function de(e,t){let n=h(t,K);var r=ue();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var fe=new Set([`$$slots`,`$$events`,`$$legacy`]),q=f(`<svg><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></g></svg>`);function J(e,t){let n=h(t,fe);var r=q();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var pe=new Set([`$$slots`,`$$events`,`$$legacy`]),Y=f(`<svg><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"></path></svg>`);function me(e,t){let n=h(t,pe);var r=Y();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var he=new Set([`$$slots`,`$$events`,`$$legacy`]),ge=f(`<svg><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41m11.32 11.32l1.41 1.41M2 12h2m16 0h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path></g></svg>`);function _e(e,t){let n=h(t,he);var r=ge();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var ve=new Set([`$$slots`,`$$events`,`$$legacy`]),ye=f(`<svg><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 22a1 1 0 0 1 0-20a10 9 0 0 1 10 9a5 5 0 0 1-5 5h-2.25a1.75 1.75 0 0 0-1.4 2.8l.3.4a1.75 1.75 0 0 1-1.4 2.8z"></path><circle cx="13.5" cy="6.5" r=".5" fill="currentColor"></circle><circle cx="17.5" cy="10.5" r=".5" fill="currentColor"></circle><circle cx="6.5" cy="12.5" r=".5" fill="currentColor"></circle><circle cx="8.5" cy="7.5" r=".5" fill="currentColor"></circle></g></svg>`);function be(e,t){let n=h(t,ve);var r=ye();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var xe=new Set([`$$slots`,`$$events`,`$$legacy`]),Se=f(`<svg><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h10v10M7 17L17 7"></path></svg>`);function Ce(e,t){let n=h(t,xe);var r=Se();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var we=new Set([`$$slots`,`$$events`,`$$legacy`]),Te=f(`<svg><path fill="currentColor" d="M11.955 11.296c-.177.086-.357-.008-.387-.194l-.002-.002c-.44-2.689-1.358-5.326-2.67-7.767-.088-.169-.051-.374.089-.438 1.319-.627 3.401.416 4.47 2.716 1.076 2.3.274 4.87-1.5 5.685"></path><path fill="currentColor" fill-rule="evenodd" d="M0 8.088a8.088 8.088 0 1 1 16.175 0A8.088 8.088 0 0 1 0 8.088M5.356 9.12c1.305 3.071 4.381 4.702 6.873 3.644s3.456-4.406 2.152-7.476c-1.304-3.072-4.38-4.703-6.873-3.644C5.016 2.702 4.052 6.05 5.356 9.12" clip-rule="evenodd"></path></svg>`);function Ee(e,t){let n=h(t,we);var r=Te();C(r,()=>({fill:`currentColor`,xmlns:`http://www.w3.org/2000/svg`,width:`17`,height:`17`,viewBox:`0 0 17 17`,...n})),c(e,r)}var De=`@import "tailwindcss";
+import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,T as u,U as d,V as f,W as p,Z as m,a as h,b as g,bt as _,c as v,dt as y,ft as b,g as x,gt as S,h as C,i as w,j as T,kt as E,lt as D,n as O,nt as k,ot as A,pt as j,s as M,st as ee,ut as N,vt as P,x as F,xt as I,z as te}from"../chunks/Bu_klV3G.js";import{s as L}from"../chunks/5W3F_WD1.js";import"../chunks/xihTtKlq.js";import{a as R,i as z,n as B,o as ne,r as re}from"../chunks/Bu6pMP3p.js";import{t as V,u as H}from"../chunks/dBd67hzr.js";import{V as U,a as ie,d as ae,g as W,i as oe,n as se,r as ce,t as G,x as le}from"../chunks/BuEvWI_Q.js";var K=new Set([`$$slots`,`$$events`,`$$legacy`]),ue=f(`<svg><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16 18l6-6l-6-6M8 6l-6 6l6 6"></path></svg>`);function de(e,t){let n=h(t,K);var r=ue();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var fe=new Set([`$$slots`,`$$events`,`$$legacy`]),q=f(`<svg><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></g></svg>`);function J(e,t){let n=h(t,fe);var r=q();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var pe=new Set([`$$slots`,`$$events`,`$$legacy`]),Y=f(`<svg><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"></path></svg>`);function me(e,t){let n=h(t,pe);var r=Y();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var he=new Set([`$$slots`,`$$events`,`$$legacy`]),ge=f(`<svg><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41m11.32 11.32l1.41 1.41M2 12h2m16 0h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path></g></svg>`);function _e(e,t){let n=h(t,he);var r=ge();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var ve=new Set([`$$slots`,`$$events`,`$$legacy`]),ye=f(`<svg><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 22a1 1 0 0 1 0-20a10 9 0 0 1 10 9a5 5 0 0 1-5 5h-2.25a1.75 1.75 0 0 0-1.4 2.8l.3.4a1.75 1.75 0 0 1-1.4 2.8z"></path><circle cx="13.5" cy="6.5" r=".5" fill="currentColor"></circle><circle cx="17.5" cy="10.5" r=".5" fill="currentColor"></circle><circle cx="6.5" cy="12.5" r=".5" fill="currentColor"></circle><circle cx="8.5" cy="7.5" r=".5" fill="currentColor"></circle></g></svg>`);function be(e,t){let n=h(t,ve);var r=ye();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var xe=new Set([`$$slots`,`$$events`,`$$legacy`]),Se=f(`<svg><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h10v10M7 17L17 7"></path></svg>`);function Ce(e,t){let n=h(t,xe);var r=Se();C(r,()=>({viewBox:`0 0 24 24`,width:`1.2em`,height:`1.2em`,...n})),c(e,r)}var we=new Set([`$$slots`,`$$events`,`$$legacy`]),Te=f(`<svg><path fill="currentColor" d="M11.955 11.296c-.177.086-.357-.008-.387-.194l-.002-.002c-.44-2.689-1.358-5.326-2.67-7.767-.088-.169-.051-.374.089-.438 1.319-.627 3.401.416 4.47 2.716 1.076 2.3.274 4.87-1.5 5.685"></path><path fill="currentColor" fill-rule="evenodd" d="M0 8.088a8.088 8.088 0 1 1 16.175 0A8.088 8.088 0 0 1 0 8.088M5.356 9.12c1.305 3.071 4.381 4.702 6.873 3.644s3.456-4.406 2.152-7.476c-1.304-3.072-4.38-4.703-6.873-3.644C5.016 2.702 4.052 6.05 5.356 9.12" clip-rule="evenodd"></path></svg>`);function Ee(e,t){let n=h(t,we);var r=Te();C(r,()=>({fill:`currentColor`,xmlns:`http://www.w3.org/2000/svg`,width:`17`,height:`17`,viewBox:`0 0 17 17`,...n})),c(e,r)}var De=`@import "tailwindcss";
 @import "tw-animate-css";
 @import "./theme-blue.css";
 @import "./theme-warm.css";
 @plugin "@tailwindcss/typography";
 @config "./tailwind.config.js";
+@source inline("button-solid button-soft button-outline button-ghost button-link");
 
 @custom-variant dark (&:is(.dark *));
 @custom-variant warm (&:is([data-theme="warm"] *));
@@ -1583,6 +1584,38 @@ import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,
 	--overlay-active-strong: var(--gray-a5);
 
 	/* --- Buttons --- */
+	--button-neutral-solid: var(--status-new-neutral-solid);
+	--button-neutral-on-solid: var(--status-new-neutral-solid-fg);
+	--button-neutral-tint: var(--status-new-neutral-bg);
+	--button-neutral-tint-hover: var(--status-new-neutral-bg-hover);
+	--button-neutral-line: var(--status-new-neutral-border);
+	--button-neutral-fg: var(--status-new-neutral-fg);
+	--button-neutral-focus: var(--input-primary-outline-focus);
+
+	--button-brand-solid: var(--status-new-brand-solid);
+	--button-brand-on-solid: var(--status-new-brand-solid-fg);
+	--button-brand-tint: var(--status-new-brand-bg);
+	--button-brand-tint-hover: var(--status-new-brand-bg-hover);
+	--button-brand-line: var(--status-new-brand-border);
+	--button-brand-fg: var(--status-new-brand-fg);
+	--button-brand-focus: var(--input-primary-outline-focus);
+
+	--button-success-solid: var(--status-new-success-solid);
+	--button-success-on-solid: var(--status-new-success-solid-fg);
+	--button-success-tint: var(--status-new-success-bg);
+	--button-success-tint-hover: var(--status-new-success-bg-hover);
+	--button-success-line: var(--status-new-success-border);
+	--button-success-fg: var(--status-new-success-fg);
+	--button-success-focus: var(--input-primary-outline-focus);
+
+	--button-error-solid: var(--status-new-error-solid);
+	--button-error-on-solid: var(--status-new-error-solid-fg);
+	--button-error-tint: var(--status-new-error-bg);
+	--button-error-tint-hover: var(--status-new-error-bg-hover);
+	--button-error-line: var(--status-new-error-border);
+	--button-error-fg: var(--status-new-error-fg);
+	--button-error-focus: var(--input-primary-outline-focus);
+
 	--button-brand: var(--brand-9);
 	--button-brand-border: var(--brand-8);
 	--button-brand-text: oklch(1 0 0);
@@ -1598,6 +1631,7 @@ import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,
 	--button-brand-outline: var(--brand-a7);
 	--button-brand-outline-hover: var(--brand-a8);
 	--button-brand-outline-focus: oklch(1 0 0 / 0.4);
+	--button-action-brand-outline: rgb(199 34 87 / 0.5);
 	--button-brand-fill: linear-gradient(var(--button-brand), var(--button-brand));
 	--button-brand-shadow: var(--surface-depth);
 	--button-brand-shadow-hover: var(--surface-depth);
@@ -1645,6 +1679,18 @@ import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,
 	--button-secondary-outline: var(--gray-a5);
 	--button-secondary-outline-hover: var(--gray-a6);
 	--button-secondary-outline-focus: var(--input-primary-outline-focus);
+	--button-action-secondary-outline: linear-gradient(
+		var(--surface-tertiary-border),
+		var(--surface-tertiary-border)
+	);
+	--button-action-secondary-fill-base: var(--surface-tertiary);
+	--button-action-secondary-fill-highlight: none;
+	--button-action-secondary-fill: linear-gradient(
+		var(--surface-tertiary),
+		var(--surface-tertiary)
+	);
+	--button-action-secondary-foreground: var(--button-secondary-foreground);
+	--button-action-secondary-icon: var(--button-secondary-icon);
 	--button-secondary-fill: linear-gradient(var(--button-secondary), var(--button-secondary));
 	--button-secondary-shadow: var(--surface-depth);
 	--button-secondary-shadow-hover: var(--surface-depth);
@@ -1771,6 +1817,7 @@ import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,
 	--divider-primary: var(--gray-5);
 	--divider-secondary: var(--gray-7);
 	--divider-brand: oklch(0.649 0.247 8.956);
+	--chart-grid-line: var(--divider-primary);
 
 	/* --- Pills --- */
 	--pill-primary: var(--gray-0);
@@ -2037,6 +2084,38 @@ import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,
 	--overlay-active-strong: var(--gray-a5);
 
 	/* --- Buttons --- */
+	--button-neutral-solid: var(--status-new-neutral-solid);
+	--button-neutral-on-solid: var(--status-new-neutral-solid-fg);
+	--button-neutral-tint: var(--status-new-neutral-bg);
+	--button-neutral-tint-hover: var(--status-new-neutral-bg-hover);
+	--button-neutral-line: var(--status-new-neutral-border);
+	--button-neutral-fg: var(--status-new-neutral-fg);
+	--button-neutral-focus: var(--input-primary-outline-focus);
+
+	--button-brand-solid: var(--status-new-brand-solid);
+	--button-brand-on-solid: var(--status-new-brand-solid-fg);
+	--button-brand-tint: var(--status-new-brand-bg);
+	--button-brand-tint-hover: var(--status-new-brand-bg-hover);
+	--button-brand-line: var(--status-new-brand-border);
+	--button-brand-fg: var(--status-new-brand-fg);
+	--button-brand-focus: var(--input-primary-outline-focus);
+
+	--button-success-solid: var(--status-new-success-solid);
+	--button-success-on-solid: var(--status-new-success-solid-fg);
+	--button-success-tint: var(--status-new-success-bg);
+	--button-success-tint-hover: var(--status-new-success-bg-hover);
+	--button-success-line: var(--status-new-success-border);
+	--button-success-fg: var(--status-new-success-fg);
+	--button-success-focus: var(--input-primary-outline-focus);
+
+	--button-error-solid: var(--status-new-error-solid);
+	--button-error-on-solid: var(--status-new-error-solid-fg);
+	--button-error-tint: var(--status-new-error-bg);
+	--button-error-tint-hover: var(--status-new-error-bg-hover);
+	--button-error-line: var(--status-new-error-border);
+	--button-error-fg: var(--status-new-error-fg);
+	--button-error-focus: var(--input-primary-outline-focus);
+
 	--button-brand: var(--brand-9);
 	--button-brand-border: var(--brand-8);
 	--button-brand-text: oklch(1 0 0);
@@ -2051,6 +2130,7 @@ import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,
 	--button-brand-outline: var(--brand-a7);
 	--button-brand-outline-hover: var(--brand-a8);
 	--button-brand-outline-focus: oklch(1 0 0 / 0.35);
+	--button-action-brand-outline: var(--button-brand-outline);
 	--button-brand-fill: linear-gradient(
 		in oklch,
 		oklch(from var(--button-brand) calc(l + 0.02) c h) 0%,
@@ -2120,6 +2200,21 @@ import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,
 		transparent
 	);
 	--button-secondary-outline-focus: var(--input-primary-outline-focus);
+	--button-action-secondary-outline: linear-gradient(
+		135deg,
+		rgb(255 255 255 / 0.3) 0%,
+		rgb(255 255 255 / 0.1) 50%,
+		rgb(255 255 255 / 0.2) 100%
+	);
+	--button-action-secondary-fill-base: var(--button-secondary);
+	--button-action-secondary-fill-highlight: linear-gradient(
+		to bottom,
+		color-mix(in oklch, var(--button-brand-text) 5%, transparent) 0%,
+		transparent 100%
+	);
+	--button-action-secondary-fill: var(--button-secondary-fill);
+	--button-action-secondary-foreground: var(--button-brand-text);
+	--button-action-secondary-icon: var(--button-brand-icon);
 	/* barely-there vertical lift. if you can name the gradient, it's too loud —
 	   mid stop holds the token so overall brightness doesn't drift */
 	--button-secondary-fill: linear-gradient(
@@ -2310,6 +2405,11 @@ import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,
 	--divider-primary: var(--gray-2-5);
 	--divider-secondary: var(--gray-5);
 	--divider-brand: oklch(0.649 0.247 8.956);
+	--chart-grid-line: color-mix(
+		in oklch,
+		var(--divider-primary) 70%,
+		var(--divider-secondary) 30%
+	);
 
 	/* --- Pills --- */
 	--pill-primary: var(--gray-5);
@@ -3197,6 +3297,113 @@ import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,
 	box-shadow: var(--tooltip-shadow);
 }
 
+@utility button-solid {
+	background-color: var(--button-tone-solid);
+	background-image: linear-gradient(var(--overlay), var(--overlay));
+	border: 0.5px solid var(--button-tone-line);
+	color: var(--button-tone-on-solid);
+	box-shadow: var(--surface-depth);
+	--overlay: transparent;
+
+	&[data-state="open"] {
+		--overlay: var(--overlay-hover-soft);
+	}
+
+	@media (hover: hover) and (pointer: fine) {
+		&:hover {
+			--overlay: var(--overlay-hover-soft);
+		}
+	}
+
+	&:active {
+		--overlay: var(--overlay-active-soft);
+	}
+}
+
+@utility button-soft {
+	background-color: var(--button-tone-tint);
+	background-image: linear-gradient(var(--overlay), var(--overlay));
+	border: 0.5px solid var(--button-tone-line);
+	color: var(--button-tone-fg);
+	box-shadow: var(--surface-depth-sm);
+	--overlay: transparent;
+
+	&[data-state="open"] {
+		--overlay: var(--overlay-hover-soft);
+	}
+
+	@media (hover: hover) and (pointer: fine) {
+		&:hover {
+			--overlay: var(--overlay-hover-soft);
+		}
+	}
+
+	&:active {
+		--overlay: var(--overlay-active-soft);
+	}
+}
+
+@utility button-outline {
+	background-color: transparent;
+	border: 0.5px solid var(--button-tone-line);
+	color: var(--button-tone-fg);
+
+	&[data-state="open"] {
+		background-color: var(--button-tone-tint);
+	}
+
+	@media (hover: hover) and (pointer: fine) {
+		&:hover {
+			background-color: var(--button-tone-tint);
+		}
+	}
+
+	&:active {
+		background-color: var(--button-tone-tint-hover);
+	}
+}
+
+@utility button-ghost {
+	background-color: transparent;
+	border: 0.5px solid transparent;
+	color: var(--button-tone-fg);
+
+	&[data-state="open"] {
+		background-color: var(--button-tone-tint);
+	}
+
+	@media (hover: hover) and (pointer: fine) {
+		&:hover {
+			background-color: var(--button-tone-tint);
+		}
+	}
+
+	&:active {
+		background-color: var(--button-tone-tint-hover);
+	}
+}
+
+@utility button-link {
+	background-color: transparent;
+	border: 0.5px solid transparent;
+	color: var(--button-tone-fg);
+	text-underline-offset: 4px;
+
+	&[data-state="open"] {
+		text-decoration-line: underline;
+	}
+
+	@media (hover: hover) and (pointer: fine) {
+		&:hover {
+			text-decoration-line: underline;
+		}
+	}
+
+	&:active {
+		color: var(--button-tone-solid);
+	}
+}
+
 /* Resting button chrome — fill + lip + depth only. */
 @utility material-button-secondary-static {
 	background-color: var(--button-secondary);
@@ -3212,6 +3419,26 @@ import{B as e,Ft as t,G as n,I as r,It as i,N as a,Ot as o,P as s,R as c,S as l,
 	background-clip: padding-box;
 	border: 0.5px solid var(--button-brand-outline);
 	box-shadow: var(--button-brand-shadow);
+}
+
+@utility material-button-action-brand-static {
+	background-color: var(--button-brand);
+	background-image: var(--button-brand-fill);
+	background-clip: padding-box;
+	border: 0.5px solid var(--button-action-brand-outline);
+	box-shadow: var(--surface-depth-ambient);
+}
+
+@utility material-button-action-secondary-static {
+	background-color: var(--button-action-secondary-fill-base);
+	background-image:
+		var(--button-action-secondary-fill-highlight),
+		var(--button-action-secondary-fill),
+		var(--button-action-secondary-outline);
+	background-origin: padding-box, padding-box, border-box;
+	background-clip: padding-box, padding-box, border-box;
+	border: 0.5px solid transparent;
+	box-shadow: var(--surface-depth-ambient);
 }
 
 @utility material-button-success-static {
@@ -4882,6 +5109,7 @@ html.dark .shiki-code .shiki[style*="--shiki-dark"] span:not([class^="doc-shell-
 	--radius: 0.5rem;
 	--app-top-bar-height: 3.5rem;
 	--app-bottom-nav-height: 3.5rem;
+	--app-bottom-nav-offset: max(0.25rem, env(safe-area-inset-bottom, 0px));
 	--mobile-header-height: calc(4rem + env(safe-area-inset-top));
 	--mobile-page-max-width: 44rem;
 	--mobile-page-padding: 1rem;
@@ -5110,7 +5338,17 @@ html.dark .shiki-code .shiki[style*="--shiki-dark"] span:not([class^="doc-shell-
 }
 
 @utility glass-icon-button {
+	--glass-action-surface: rgb(249 250 252 / 92%);
+	--glass-action-sheen: rgb(255 255 255 / 22%);
+	--glass-action-lowlight: rgb(71 85 105 / 5%);
+	--glass-action-edge-top: rgb(15 23 42 / 10%);
+	--glass-action-edge-side: rgb(15 23 42 / 9%);
+	--glass-action-edge-bottom: rgb(15 23 42 / 14%);
+	--glass-action-edge-specular: transparent;
+	--glass-action-edge-glance: transparent;
+	--glass-action-shadow: rgb(15 23 42 / 15%);
 	position: relative;
+	isolation: isolate;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -5118,27 +5356,110 @@ html.dark .shiki-code .shiki[style*="--shiki-dark"] span:not([class^="doc-shell-
 	width: 2.75rem;
 	height: 2.75rem;
 	border-radius: 9999px;
-	color: var(--secondary-foreground);
-	background: color-mix(in oklch, var(--surface-secondary) 82%, transparent);
-	border: var(--border-hairline) solid
-		color-mix(in oklch, var(--surface-secondary-border) 82%, transparent);
+	color: var(--muted-foreground);
+	background:
+		linear-gradient(
+			to bottom,
+			var(--glass-action-sheen) 0%,
+			transparent 38%,
+			transparent 72%,
+			var(--glass-action-lowlight) 100%
+		),
+		var(--glass-action-surface);
+	border: 0;
 	box-shadow:
-		inset 0 1px 0 color-mix(in oklch, var(--foreground) 6%, transparent),
-		0 6px 20px oklch(0 0 0 / 0.08);
-	-webkit-backdrop-filter: blur(16px);
-	backdrop-filter: blur(16px);
+		inset 0 1px 0 rgb(255 255 255 / 12%),
+		inset 0 -1px 0 rgb(15 23 42 / 5%),
+		0 6px 18px -6px var(--glass-action-shadow);
+	-webkit-backdrop-filter: blur(20px) saturate(112%);
+	backdrop-filter: blur(20px) saturate(112%);
 	transition:
 		transform 150ms cubic-bezier(0.16, 1, 0.3, 1),
+		color 150ms ease,
+		box-shadow 150ms cubic-bezier(0.16, 1, 0.3, 1),
 		background-color 150ms cubic-bezier(0.16, 1, 0.3, 1);
 
+	&::before {
+		position: absolute;
+		inset: 0;
+		padding: 0.75px;
+		border-radius: inherit;
+		background:
+			radial-gradient(
+				44% 175% at 18% 0%,
+				var(--glass-action-edge-specular) 0%,
+				transparent 74%
+			),
+			radial-gradient(
+				34% 145% at 82% 100%,
+				var(--glass-action-edge-glance) 0%,
+				transparent 78%
+			),
+			linear-gradient(
+				to bottom,
+				var(--glass-action-edge-top) 0%,
+				var(--glass-action-edge-side) 48%,
+				var(--glass-action-edge-side) 58%,
+				var(--glass-action-edge-bottom) 100%
+			);
+		content: "";
+		pointer-events: none;
+		-webkit-mask:
+			linear-gradient(#000 0 0) content-box,
+			linear-gradient(#000 0 0);
+		mask:
+			linear-gradient(#000 0 0) content-box,
+			linear-gradient(#000 0 0);
+		-webkit-mask-composite: xor;
+		mask-composite: exclude;
+	}
+
+	.dark & {
+		--glass-action-surface: rgb(27 27 30 / 94%);
+		--glass-action-sheen: rgb(255 255 255 / 2.5%);
+		--glass-action-lowlight: rgb(0 0 0 / 8%);
+		--glass-action-edge-top: rgb(255 255 255 / 7%);
+		--glass-action-edge-side: rgb(255 255 255 / 2%);
+		--glass-action-edge-bottom: rgb(255 255 255 / 5%);
+		--glass-action-edge-specular: rgb(255 255 255 / 16%);
+		--glass-action-edge-glance: rgb(255 255 255 / 8%);
+		--glass-action-shadow: rgb(0 0 0 / 56%);
+		box-shadow:
+			inset 0 1px 0 rgb(255 255 255 / 3%),
+			inset 0 -1px 0 rgb(0 0 0 / 24%),
+			0 8px 22px -8px var(--glass-action-shadow);
+	}
+
 	&:active {
-		transform: scale(0.96);
-		background: color-mix(in oklch, var(--surface-tertiary) 88%, transparent);
+		transform: translateY(0.5px) scale(0.94);
+		color: var(--secondary-foreground);
+		box-shadow:
+			inset 0 1px 0 rgb(255 255 255 / 8%),
+			inset 0 -1px 0 rgb(15 23 42 / 5%),
+			0 3px 10px -6px var(--glass-action-shadow);
 	}
 
 	&:focus-visible {
 		outline: 1px solid var(--input-primary-border-focus);
 		outline-offset: 1px;
+	}
+
+	@media (prefers-reduced-motion: reduce) {
+		transition-duration: 1ms;
+
+		&:active {
+			transform: none;
+		}
+	}
+
+	@media (prefers-contrast: more) {
+		background: var(--background-page);
+		outline: 1px solid var(--foreground);
+		outline-offset: -1px;
+
+		&::before {
+			display: none;
+		}
 	}
 }
 
@@ -5337,5 +5658,5 @@ html.dark .shiki-code .shiki[style*="--shiki-dark"] span:not([class^="doc-shell-
 	}
 }
 `,ke=[{id:`default`,name:`Default`,description:`Clean neutral interface`},{id:`warm`,name:`Warm`,description:`Warmer, softer surfaces`},{id:`blue`,name:`Blue`,description:`Cool blue interface`}],X=[{id:`palettes`,label:`Palettes`},{id:`surfaces`,label:`Surfaces`},{id:`content`,label:`Text & icons`},{id:`status`,label:`Status & trading`},{id:`controls`,label:`Controls`},{id:`borders`,label:`Borders & overlays`},{id:`other`,label:`Other colors`}],Ae=/^--([a-z]+)-(a?\d+(?:-\d+)?)$/,je=/^(?:#[\da-f]{3,8}\b|(?:oklch|oklab|lch|lab|rgba?|hsla?|color|color-mix)\(|transparent$)/i;function Me(e){return/^--(?:status-|positive|negative)/.test(e)?`status`:/(?:border|outline|overlay|divider)/.test(e)?`borders`:/^--(?:button|input|checkbox|toggle|pill)/.test(e)?`controls`:/^--(?:background|surface|sidebar|nav|menu|tooltip|progress)/.test(e)?`surfaces`:/(?:foreground|^--icon|^--brand$)/.test(e)?`content`:`other`}function Z(e,t=!0){let n=new Map;for(let r of e){let e=r.replace(/\/\*[\s\S]*?\*\//g,``),i=t?e.split(/@(?:theme|utility)\b/)[0]??``:e;for(let e of i.matchAll(/(--[\w-]+)\s*:\s*([^;{}]+);/g)){let t=e[1],r=n.get(t)??new Set;r.add(e[2].trim()),n.set(t,r)}}return n}function Ne(...e){let t=Z(e);function n(e,r=new Set){if(r.has(e))return!1;let i=new Set([...r,e]);return[...t.get(e)??[]].some(e=>{if(je.test(e))return!0;let t=/^var\((--[\w-]+)\)$/.exec(e);return t!==null&&n(t[1],i)})}return[...t.keys()].filter(e=>n(e)).map(e=>{let n=Ae.exec(e),r=n?.[1],i=r!==void 0&&(t.has(`--${r}-1`)||t.has(`--${r}-a1`));return{name:e,category:i?`palettes`:Me(e),family:i?r:null,step:i?n[2].replace(`-`,`.`):null,alpha:i&&n[2].startsWith(`a`)}})}function Pe(e,t){let n=t.trim().toLowerCase().split(/\s+/).filter(Boolean),r=`${e.name} ${e.family??``} ${e.step??``} ${X.find(t=>t.id===e.category)?.label??``}`.toLowerCase();return n.every(e=>r.includes(e))}function Fe(e,t){let n=new Map;for(let r of e){if(r.family===null||r.alpha!==t)continue;let e=n.get(r.family)??[];e.push(r),n.set(r.family,e)}return[...n].map(([e,t])=>({family:e,colors:t}))}var Ie=[...X,{id:`shadows`,label:`Shadows`},{id:`border-properties`,label:`Border properties`}];function Q(e){return!(`property`in e)}function Le(e,t){if(Q(e))return Pe(e,t);let n=`${e.name} ${e.property} ${e.category} ${Object.values(e.declarations).join(` `)}`.toLowerCase();return t.trim().toLowerCase().split(/\s+/).every(e=>n.includes(e))}function Re(...e){let t=[];for(let n of Z(e).keys())/(?:^|-)shadow(?:-|$)|^--(?:surface|menu)-depth(?:-|$)/.test(n)&&t.push({name:n,category:`shadows`,property:`box-shadow`,declarations:{"box-shadow":`var(${n})`}});for(let n of Z(e,!1).keys()){if(!/^--(?:radius|hairline|border-hairline|custom-border-width(?:-\d+)?|default-border-width)$/.test(n))continue;let e=n===`--radius`?`border-radius`:`border-width`;t.push({name:n,category:`border-properties`,property:e,declarations:{[e]:`var(${n})`}})}let n=new Map;for(let t of e){let e=t.replace(/\/\*[\s\S]*?\*\//g,``);for(let t of e.matchAll(/@utility\s+(material-[\w-]+)\s*\{([^{}]*)/g)){let e=Object.fromEntries([...t[2].matchAll(/\b(background-color|background-image|background-clip|border|box-shadow)\s*:\s*([^;{}]+);/g)].map(e=>[e[1],e[2].trim()]));e.border&&e[`box-shadow`]&&n.set(t[1],e)}}for(let[e,r]of n)n.has(`${e}-static`)||t.push({name:e,category:`border-properties`,property:`border`,declarations:r});let r=[`--surface-depth`,`--surface-depth-sm`,`--surface-depth-ambient`,`--menu-depth`];return t.sort((e,t)=>{let n=r.indexOf(e.name),i=r.indexOf(t.name);return(n<0?r.length:n)-(i<0?r.length:i)})}function ze(e){return Object.entries(e.declarations).map(([e,t])=>`${e}: ${t};`).join(`
-`)}function Be(e,t=`,`){let n=0,r=0,i=[];for(let a=0;a<e.length;a++)e[a]===`(`&&n++,e[a]===`)`&&n--,n===0&&e[a]===t&&(e.slice(r,a).trim()&&i.push(e.slice(r,a).trim()),r=a+1);return e.slice(r).trim()&&i.push(e.slice(r).trim()),i}function Ve(e){return!e||e===`none`?[]:Be(e).map(e=>{let t=Be(e.replace(/\s+/g,` `),` `),n=t.filter(e=>/^-?(?:\d*\.)?\d+(?:px|rem|em)?$/.test(e));return{x:n[0]??`0`,y:n[1]??`0`,blur:n[2]??`0`,spread:n[3]??`0`,inset:t.includes(`inset`),color:t.filter(e=>e!==`inset`&&!n.includes(e)).join(` `)}})}function He(e,t){let n=getComputedStyle(t).getPropertyValue(e).trim();if(!n||!CSS.supports(`color`,n))return{css:n,hex:null};let r=document.createElement(`canvas`);r.width=r.height=1;let i=r.getContext(`2d`,{colorSpace:`srgb`,willReadFrequently:!0});if(!i)return{css:n,hex:null};i.fillStyle=n,i.fillRect(0,0,1,1);let a=[...i.getImageData(0,0,1,1).data];return{css:n,hex:`#${a.slice(0,a[3]===255?3:4).map(e=>e.toString(16).padStart(2,`0`)).join(``)}`.toUpperCase()}}var Ue=e(`<span class="selection-check bg-surface-panel text-foreground svelte-1fbi607"><!></span>`),$=e(`<button type="button"><span class="swatch-backdrop svelte-1fbi607"><span class="color-swatch svelte-1fbi607"><!></span></span> <span class="step-label font-mono text-xxs svelte-1fbi607"> </span></button>`),We=e(`<section class="palette-row svelte-1fbi607"><h3 class="flex items-center gap-2 text-sm font-semibold capitalize svelte-1fbi607"><span class="size-2 shrink-0 rounded-full"></span> </h3> <div class="palette-scale svelte-1fbi607"></div></section>`),Ge=e(`<div class="palette-list svelte-1fbi607"></div>`);function Ke(e,t){E(t,!0);let a=I(()=>Fe(t.tokens,t.alpha));var u=Ge();T(u,21,()=>m(a),e=>e.family,(e,a)=>{var o=We(),u=N(o),d=N(u);let f;var p=b(d);i(u);var h=b(u,2);let _;T(h,21,()=>m(a).colors,e=>e.name,(e,a)=>{var o=$(),u=N(o),d=N(u);let f;var p=N(d),h=e=>{var t=Ue();W(N(t),{class:`size-3`}),i(t),c(e,t)};s(p,e=>{t.selected===m(a).name&&e(h)}),i(d),i(u);var _=b(u,2),v=N(_,!0);i(_),i(o),A(e=>{F(o,1,e,`svelte-1fbi607`),x(o,`aria-label`,`Inspect ${m(a).name}`),x(o,`aria-pressed`,t.selected===m(a).name),x(o,`title`,m(a).name),f=g(d,``,f,{background:`var(${m(a).name})`}),r(v,m(a).step)},[()=>l(V(`color-step`,t.selected===m(a).name&&`is-selected`))]),n(`click`,o,()=>t.onselect(m(a))),c(e,o)}),i(h),i(o),A(()=>{x(o,`aria-label`,`${m(a).family} ${t.alpha?`alpha`:`solid`} palette`),f=g(d,``,f,{background:`var(--${m(a).family}-${t.alpha?`a9`:`9`})`}),r(p,` ${m(a).family??``}`),_=g(h,``,_,{"--steps":m(a).colors.length})}),c(e,o)}),i(u),c(e,u),o()}p([`click`]);var qe=e(`<!> `,1),Je=e(`<p class="text-xs text-negative" role="alert">Could not copy. Select and copy the value.</p>`),Ye=e(`<section class="inspector rounded-lg material-surface-primary-card svelte-1b3thkm" aria-label="Selected color"><div class="inspector-heading flex items-center justify-between gap-2 svelte-1b3thkm"><h2 class="text-sm font-semibold">Color details</h2> <!></div> <div class="inspector-swatch-backdrop svelte-1b3thkm"><div class="inspector-swatch svelte-1b3thkm"></div></div> <div class="inspector-body svelte-1b3thkm"><div class="token-heading svelte-1b3thkm"><span class="text-xs text-muted-foreground svelte-1b3thkm"> </span> <h3 class="mt-1 font-mono text-base font-semibold break-all svelte-1b3thkm"> </h3></div> <dl class="flex flex-col gap-4 svelte-1b3thkm"><div class="value-row svelte-1b3thkm"><div class="min-w-0"><dt class="text-xs text-muted-foreground">sRGB hex</dt> <dd class="mt-1 font-mono text-sm" data-color-hex=""> </dd></div> <!></div> <div class="value-row css-value svelte-1b3thkm"><div class="min-w-0"><dt class="text-xs text-muted-foreground">Resolved CSS</dt> <dd class="mt-1 font-mono text-xs leading-relaxed break-words" data-color-css=""> </dd></div> <!></div></dl> <!> <!> <span class="sr-only" role="status"> </span></div></section>`);function Xe(e,t){E(t,!0);let n=new U,a=I(()=>X.find(e=>e.id===t.token.category)?.label),l=I(()=>n.copied&&n.lastCopied===`var(${t.token.name})`);O(()=>()=>n.resetCopied());var u=Ye(),d=N(u);de(b(N(d),2),{class:`size-4 text-icon-muted-foreground`}),i(d);var f=b(d,2),p=N(f);let h;i(f);var _=b(f,2),v=N(_),x=N(v),S=N(x,!0);i(x);var C=b(x,2),w=N(C,!0);i(C),i(v);var T=b(v,2),D=N(T),k=N(D),j=b(N(k),2),M=N(j,!0);i(j),i(k);var ee=b(k,2);{let e=I(()=>!t.value?.hex);H(ee,{variant:`ghost`,size:`sm`,iconOnly:!0,"aria-label":`Copy hex value`,get disabled(){return m(e)},onclick:()=>t.value?.hex&&n.copy(t.value.hex),children:(e,r)=>{var i=te(),a=y(i),o=e=>{W(e,{class:`size-4`})},l=e=>{J(e,{class:`size-4`})};s(a,e=>{n.copied&&n.lastCopied===t.value?.hex?e(o):e(l,-1)}),c(e,i)},$$slots:{default:!0}})}i(D);var P=b(D,2),F=N(P),L=b(N(F),2),R=N(L,!0);i(L),i(F);var z=b(F,2);{let e=I(()=>!t.value?.css);H(z,{variant:`ghost`,size:`sm`,iconOnly:!0,"aria-label":`Copy resolved CSS`,get disabled(){return m(e)},onclick:()=>t.value?.css&&n.copy(t.value.css),children:(e,r)=>{var i=te(),a=y(i),o=e=>{W(e,{class:`size-4`})},l=e=>{J(e,{class:`size-4`})};s(a,e=>{n.copied&&n.lastCopied===t.value?.css?e(o):e(l,-1)}),c(e,i)},$$slots:{default:!0}})}i(P),i(T);var B=b(T,2);H(B,{class:`w-full`,size:`md`,onclick:()=>n.copy(`var(${t.token.name})`),children:(e,t)=>{var n=qe(),i=y(n),a=e=>{W(e,{class:`size-4`})},o=e=>{J(e,{class:`size-4`})};s(i,e=>{m(l)?e(a):e(o,-1)});var u=b(i);A(()=>r(u,` ${m(l)?`Copied CSS variable`:`Copy CSS variable`}`)),c(e,n)},$$slots:{default:!0}});var ne=b(B,2),re=e=>{c(e,Je())};s(ne,e=>{n.status===`failure`&&e(re)});var V=b(ne,2),ie=N(V,!0);i(V),i(_),i(u),A(()=>{h=g(p,``,h,{background:`var(${t.token.name})`}),r(S,m(a)),r(w,t.token.name),r(M,t.value?.hex??`—`),r(R,t.value?.css||`—`),r(ie,n.copied?`Copied to clipboard`:``)}),c(e,u),o()}var Ze=e(`<span aria-hidden="true"><span></span></span>`);function Qe(e,t){E(t,!0);let n=w(t,`large`,3,!1),r=w(t,`ref`,15,null);var a=Ze(),s=N(a);let u;v(s,e=>r(e),()=>r()),i(a),A((e,n)=>{F(a,1,e,`svelte-1l272yl`),u=F(s,1,`property-sample svelte-1l272yl`,null,u,{"border-sample":t.token.property===`border-width`||t.token.property===`border-radius`}),g(s,n)},[()=>l(V(`property-stage`,n()&&`large`)),()=>ze(t.token)]),c(e,a),o()}var $e=e(`<div><dt class="text-xs text-muted-foreground"> </dt> <dd class="mt-1 font-mono text-xs break-words"> </dd></div>`),et=e(`<div><dt class="text-muted-foreground"> </dt> <dd class="mt-1 font-mono"> </dd></div>`),tt=e(`<div class="border-t border-divider-primary pt-3"><h4 class="mb-2 text-xs font-semibold"> </h4> <dl class="grid grid-cols-4 gap-2 text-xxs"><!> <div class="col-span-4"><dt class="text-muted-foreground">Color</dt> <dd class="mt-1 font-mono leading-relaxed break-words"> </dd></div></dl></div>`),nt=e(`<div class="px-2"><!></div> <div class="flex min-w-0 flex-col gap-4 p-4"><h3 class="font-mono text-sm font-semibold break-all"> </h3> <dl class="flex flex-col gap-3"><div><dt class="text-xs text-muted-foreground">CSS property</dt> <dd class="mt-1 font-mono text-xs"> </dd></div> <div><dt class="text-xs text-muted-foreground">Resolved value</dt> <dd class="mt-1 font-mono text-xs leading-relaxed break-words"> </dd></div> <!></dl> <!> <details class="border-t border-divider-primary pt-3"><summary class="cursor-pointer text-xs font-semibold">CSS declaration</summary> <pre class="mt-2 font-mono text-xxs leading-relaxed break-words whitespace-pre-wrap"> </pre></details></div>`,1),rt=e(`<!> `,1),it=e(`<p class="text-xs text-negative" role="alert">Could not copy. Select and copy the value.</p>`),at=e(`<section class="property-inspector flex min-h-0 flex-col overflow-hidden rounded-lg material-surface-primary-card svelte-111kq1c" aria-label="Selected property"><div class="flex shrink-0 items-center justify-between gap-2 p-4"><h2 class="text-sm font-semibold"> </h2> <!></div> <!> <div class="shrink-0 border-t border-divider-primary p-4"><!> <!> <span class="sr-only" role="status"> </span></div></section>`);function ot(e,t){E(t,!0);let n=P(null),a=P(``),l=P([]),u=new U,d=I(()=>ze(t.token)),f=I(()=>t.token.property===`box-shadow`?Ve(m(a)):[]);O(()=>()=>u.resetCopied()),ee(()=>{z.current,R.current;let e=m(n),r=t.token;if(!e)return;let i=requestAnimationFrame(()=>{let t=getComputedStyle(e);S(a,r.property===`border`?t.getPropertyValue(`border-top`):getComputedStyle(document.documentElement).getPropertyValue(r.name).trim(),!0);let n=r.property===`border`?[[`Rendered width`,`border-top-width`],[`Style`,`border-top-style`],[`Color`,`border-top-color`],[`Background clip`,`background-clip`]]:r.property===`border-width`?[[`Rendered width`,`border-top-width`]]:r.property===`border-radius`?[[`Rendered radius`,`border-top-left-radius`]]:[];S(l,n.map(([e,n])=>({label:e,value:t.getPropertyValue(n)})))});return()=>cancelAnimationFrame(i)});var p=at(),h=N(p),g=N(h),_=N(g,!0);i(g),de(b(g,2),{class:`size-4 text-icon-muted-foreground`}),i(h);var v=b(h,2);ae(v,{class:`min-h-0 flex-1`,viewportClasses:`h-full`,variant:`thin`,scrollFadeY:!1,children:(e,o)=>{var s=nt(),u=y(s);Qe(N(u),{get token(){return t.token},large:!0,get ref(){return m(n)},set ref(e){S(n,e,!0)}}),i(u);var p=b(u,2),h=N(p),g=N(h,!0);i(h);var _=b(h,2),v=N(_),x=b(N(v),2),C=N(x,!0);i(x),i(v);var w=b(v,2),E=b(N(w),2),D=N(E,!0);i(E),i(w),T(b(w,2),17,()=>m(l),e=>e.label,(e,t)=>{var n=$e(),a=N(n),o=N(a,!0);i(a);var s=b(a,2),l=N(s,!0);i(s),i(n),A(()=>{r(o,m(t).label),r(l,m(t).value)}),c(e,n)}),i(_);var O=b(_,2);T(O,18,()=>m(f),e=>e,(e,t,n)=>{var a=tt(),o=N(a),s=N(o);i(o);var l=b(o,2),u=N(l);T(u,17,()=>[{label:`X`,value:t.x},{label:`Y`,value:t.y},{label:`Blur`,value:t.blur},{label:`Spread`,value:t.spread}],e=>e.label,(e,t)=>{var n=et(),a=N(n),o=N(a,!0);i(a);var s=b(a,2),l=N(s,!0);i(s),i(n),A(()=>{r(o,m(t).label),r(l,m(t).value)}),c(e,n)});var d=b(u,2),f=b(N(d),2),p=N(f,!0);i(f),i(d),i(l),i(a),A(e=>{r(s,`Layer ${e??``} · ${t.inset?`Inset`:`Outer`}`),r(p,t.color)},[()=>le(m(n)+1,0)]),c(e,a)});var k=b(O,2),j=b(N(k),2),M=N(j,!0);i(j),i(k),i(p),A(()=>{r(g,t.token.name),r(C,t.token.property),r(D,m(a)||`Not defined in this theme`),r(M,m(d))}),c(e,s)},$$slots:{default:!0}});var x=b(v,2),C=N(x);H(C,{class:`w-full`,onclick:()=>u.copy(m(d)),children:(e,t)=>{var n=rt(),i=y(n),a=e=>{W(e,{class:`size-4`})},o=e=>{J(e,{class:`size-4`})};s(i,e=>{u.copied?e(a):e(o,-1)});var l=b(i);A(()=>r(l,` ${u.copied?`Copied CSS`:`Copy CSS`}`)),c(e,n)},$$slots:{default:!0}});var w=b(C,2),D=e=>{c(e,it())};s(w,e=>{u.status===`failure`&&e(D)});var k=b(w,2),j=N(k,!0);i(k),i(x),i(p),A(()=>{r(_,t.token.property===`box-shadow`?`Shadow details`:`Border details`),r(j,u.copied?`Copied to clipboard`:``)}),c(e,p),o()}var st=e(`<span class="svelte-jlk1gy"></span>`),ct=e(`Components <!>`,1),lt=e(`<!> Light`,1),ut=e(`<!> Dark`,1),dt=e(`<div class="flex items-center gap-1" role="group" aria-label="Palette type"><!> <!></div>`),ft=e(`<div class="flex flex-col items-center gap-4 py-16"><!> <h3 class="text-base font-semibold">No matching tokens</h3> <!></div>`),pt=e(`<span class="semantic-backdrop svelte-jlk1gy"><span class="semantic-swatch svelte-jlk1gy"></span></span>`),mt=e(`<span class="semantic-backdrop svelte-jlk1gy"><!></span>`),ht=e(`<button type="button"><!> <span class="block pt-2.5 font-mono text-xxs leading-relaxed break-all svelte-jlk1gy"> </span></button>`),gt=e(`<div class="semantic-grid svelte-jlk1gy"></div>`),_t=e(`<div class="color-library min-h-dvh bg-background-page text-foreground"><div class="color-ribbon svelte-jlk1gy" aria-hidden="true"></div> <header class="library-header border-b border-divider-primary svelte-jlk1gy"><a class="flex items-center gap-2.5" aria-label="Polyester color library"><!> <span class="text-lg font-semibold tracking-tight">polyester</span></a> <div class="flex items-center gap-2"><!> <!></div></header> <div class="library-content svelte-jlk1gy"><div class="page-heading svelte-jlk1gy"><div class="flex flex-wrap items-center gap-4"><h1 class="text-4xl font-semibold tracking-tight svelte-jlk1gy">Color library</h1> <span class="token-total text-xs text-muted-foreground svelte-jlk1gy"> </span></div> <div class="theme-controls svelte-jlk1gy"><div class="w-28"><!></div> <div class="mode-switch rounded-lg bg-toggle-primary p-1 svelte-jlk1gy" role="group" aria-label="Appearance"><!> <!></div></div></div> <div class="library-workspace svelte-jlk1gy"><aside class="category-sidebar svelte-jlk1gy"><div class="desktop-categories svelte-jlk1gy"><div class="mb-4 flex items-center gap-2 px-3 text-xs text-muted-foreground"><!> Collections</div> <nav class="flex flex-col gap-1" aria-label="Color collections"></nav> <div class="mt-8 border-t border-divider-primary px-3 pt-4 text-xxs leading-relaxed text-muted-foreground"><span class="font-mono">@repo/styles</span> <div class="mt-2 flex items-center gap-1.5"><span class="size-1.5 rounded-full bg-status-new-success-solid"></span> Live
-							product tokens</div></div></div> <div class="mobile-categories svelte-jlk1gy"><!></div></aside> <main class="min-w-0" aria-label="Color catalog"><!> <div class="collection-heading svelte-jlk1gy"><div class="flex min-w-0 flex-wrap items-center gap-2"><h2 class="text-lg font-semibold tracking-tight"> </h2> <span class="text-xs text-muted-foreground" role="status"> </span></div> <!></div> <!></main> <aside class="inspector-column svelte-jlk1gy"><!></aside></div> <footer class="library-footer border-t border-divider-primary text-xxs text-muted-foreground svelte-jlk1gy"><span>Polyester / Color foundations</span> <span>OKLCH · Light & dark · Default, blue & warm</span></footer></div></div>`);function vt(e,u){E(u,!0);let f=w(u,`presentation`,3,se),p=Ne(De,Oe),h=[...p,...Re(De,Oe)],_=Fe(p,!1),C=ke.map(e=>({value:e.id,label:e.name})),D=Ie.map(e=>({value:e.id,label:e.label})),k=P(`palettes`),M=P(``),L=P(!1),U=P(j(p.find(e=>e.name===`--brand-9`))),ae=P(null),W=P(void 0),G=I(()=>m(M).trim().length>0),K=I(()=>h.filter(e=>Le(e,m(M))&&(m(G)||e.category===m(k))&&(m(G)||m(k)!==`palettes`||Q(e)&&e.alpha===m(L)))),ue=I(()=>m(G)?`Search results`:m(k)===`palettes`?`Primitive palettes`:Ie.find(e=>e.id===m(k)).label);O(()=>{let e=ne.current,t=R.current;return()=>{B(e),re(t??`default`)}}),ee(()=>{if(z.current,R.current,!Q(m(U)))return;let e=m(U).name,t=requestAnimationFrame(()=>{S(ae,He(e,document.documentElement))});return()=>cancelAnimationFrame(t)});function de(e){S(U,e,!0),window.matchMedia(`(max-width: 800px)`).matches&&m(W)?.scrollIntoView({block:`nearest`})}function fe(e){let t=Ie.find(t=>t.id===e);if(t){S(k,t.id,!0),S(M,``);let e=h.find(e=>e.category===t.id);e&&m(U).category!==t.id&&S(U,e,!0)}}var q=_t(),J=N(q);T(J,21,()=>_.filter(e=>e.family!==`gray`),e=>e.family,(e,t)=>{var n=st();let r;A(()=>r=g(n,``,r,{background:`var(--${m(t).family}-9)`})),c(e,n)}),i(J);var pe=b(J,2),Y=N(pe);Ee(N(Y),{class:`size-7 text-brand`}),t(2),i(Y);var he=b(Y,2),ge=N(he);ie(ge,{variant:`neutral`,size:`sm`,children:(e,n)=>{t(),c(e,d(`Design system`))},$$slots:{default:!0}}),H(b(ge,2),{get href(){return f().componentsHref},variant:`ghost`,size:`sm`,class:`gallery-link`,children:(e,n)=>{t();var r=ct();Ce(b(y(r)),{class:`size-3.5`}),c(e,r)},$$slots:{default:!0}}),i(he),i(pe);var ve=b(pe,2),ye=N(ve),xe=N(ye),Se=b(N(xe),2),we=N(Se);i(Se),i(xe);var Te=b(xe,2),X=N(Te),Ae=N(X),je=()=>R.current??`default`,Me=re;oe(Ae,{get options(){return C},get value(){return je()},set value(e){Me(e)},placeholder:`Color theme`,size:`sm`}),i(X);var Z=b(X,2),Pe=N(Z);{let e=I(()=>z.current===`light`?`secondary`:`ghost`),n=I(()=>z.current===`light`);H(Pe,{get variant(){return m(e)},size:`sm`,get"aria-pressed"(){return m(n)},onclick:()=>B(`light`),children:(e,n)=>{var r=lt();_e(y(r),{class:`size-4`}),t(),c(e,r)},$$slots:{default:!0}})}var ze=b(Pe,2);{let e=I(()=>z.current===`dark`?`secondary`:`ghost`),n=I(()=>z.current===`dark`);H(ze,{get variant(){return m(e)},size:`sm`,get"aria-pressed"(){return m(n)},onclick:()=>B(`dark`),children:(e,n)=>{var r=ut();me(y(r),{class:`size-4`}),t(),c(e,r)},$$slots:{default:!0}})}i(Z),i(Te),i(ye);var Be=b(ye,2),Ve=N(Be),Ue=N(Ve),$=N(Ue);be(N($),{class:`size-4`}),t(),i($);var We=b($,2);T(We,21,()=>Ie,e=>e.id,(e,n)=>{{let i=I(()=>!m(G)&&m(k)===m(n).id?`secondary`:`ghost`),a=I(()=>!m(G)&&m(k)===m(n).id);H(e,{get variant(){return m(i)},class:`justify-start`,get"aria-pressed"(){return m(a)},onclick:()=>fe(m(n).id),children:(e,i)=>{t();var a=d();A(()=>r(a,m(n).label)),c(e,a)},$$slots:{default:!0}})}}),i(We),t(2),i(Ue);var Ge=b(Ue,2),qe=N(Ge),Je=()=>m(k),Ye=fe;oe(qe,{get options(){return D},get value(){return Je()},set value(e){Ye(e)},placeholder:`Color collection`,size:`sm`}),i(Ge),i(Ve);var Ze=b(Ve,2),$e=N(Ze);ce($e,{placeholder:`Search token names…`,"aria-label":`Search color tokens`,get value(){return m(M)},set value(e){S(M,e,!0)}});var et=b($e,2),tt=N(et),nt=N(tt),rt=N(nt,!0);i(nt);var it=b(nt,2),at=N(it,!0);i(it),i(tt);var vt=b(tt,2),yt=e=>{var n=dt(),r=N(n);{let e=I(()=>m(L)?`ghost`:`secondary`),n=I(()=>!m(L));H(r,{size:`sm`,get variant(){return m(e)},get"aria-pressed"(){return m(n)},onclick:()=>S(L,!1),children:(e,n)=>{t(),c(e,d(`Solid`))},$$slots:{default:!0}})}var a=b(r,2);{let e=I(()=>m(L)?`secondary`:`ghost`);H(a,{size:`sm`,get variant(){return m(e)},get"aria-pressed"(){return m(L)},onclick:()=>S(L,!0),children:(e,n)=>{t(),c(e,d(`Alpha`))},$$slots:{default:!0}})}i(n),c(e,n)};s(vt,e=>{m(k)===`palettes`&&!m(G)&&e(yt)}),i(et);var bt=b(et,2),xt=e=>{var n=ft(),r=N(n);be(r,{class:`size-8 text-icon-muted-foreground`}),H(b(r,4),{onclick:()=>S(M,``),children:(e,n)=>{t(),c(e,d(`Clear search`))},$$slots:{default:!0}}),i(n),c(e,n)},St=e=>{{let t=I(()=>m(K).filter(Q));Ke(e,{get tokens(){return m(t)},get alpha(){return m(L)},get selected(){return m(U).name},onselect:de})}},Ct=e=>{var t=gt();T(t,21,()=>m(K),e=>e.name,(e,t)=>{var a=ht(),o=N(a),u=e=>{var n=pt(),r=N(n);let a;i(n),A(()=>a=g(r,``,a,{background:`var(${m(t).name})`})),c(e,n)},d=I(()=>Q(m(t))),f=e=>{var n=mt();Qe(N(n),{get token(){return m(t)}}),i(n),c(e,n)};s(o,e=>{m(d)?e(u):e(f,-1)});var p=b(o,2),h=N(p,!0);i(p),i(a),A(e=>{F(a,1,e,`svelte-jlk1gy`),x(a,`aria-label`,`Inspect ${m(t).name}`),x(a,`aria-pressed`,m(U).name===m(t).name),r(h,m(t).name)},[()=>l(V(`semantic-token`,m(U).name===m(t).name&&`is-selected`))]),n(`click`,a,()=>de(m(t))),c(e,a)}),i(t),c(e,t)};s(bt,e=>{m(K).length===0?e(xt):m(k)===`palettes`&&!m(G)?e(St,1):e(Ct,-1)}),i(Ze);var wt=b(Ze,2);a(N(wt),()=>m(U).name,e=>{var t=te(),n=y(t),r=e=>{Xe(e,{get token(){return m(U)},get value(){return m(ae)}})},i=I(()=>Q(m(U))),a=e=>{ot(e,{get token(){return m(U)}})};s(n,e=>{m(i)?e(r):e(a,-1)}),c(e,t)}),i(wt),v(wt,e=>S(W,e),()=>m(W)),i(Be),t(2),i(ve),i(q),A((e,t)=>{x(Y,`href`,f().colorsHref),r(we,`${e??``} tokens`),r(rt,m(ue)),r(at,t)},[()=>le(h.length,0),()=>le(m(K).length,0)]),c(e,q),o()}p([`click`]);function yt(e,t){E(t,!1),M(),u(`f1j3j9`,e=>{k(()=>{D.title=`Colors · Polyester design library`})});{let t=_(()=>G(L));vt(e,{get presentation(){return m(t)}})}o()}export{yt as component};
+`)}function Be(e,t=`,`){let n=0,r=0,i=[];for(let a=0;a<e.length;a++)e[a]===`(`&&n++,e[a]===`)`&&n--,n===0&&e[a]===t&&(e.slice(r,a).trim()&&i.push(e.slice(r,a).trim()),r=a+1);return e.slice(r).trim()&&i.push(e.slice(r).trim()),i}function Ve(e){return!e||e===`none`?[]:Be(e).map(e=>{let t=Be(e.replace(/\s+/g,` `),` `),n=t.filter(e=>/^-?(?:\d*\.)?\d+(?:px|rem|em)?$/.test(e));return{x:n[0]??`0`,y:n[1]??`0`,blur:n[2]??`0`,spread:n[3]??`0`,inset:t.includes(`inset`),color:t.filter(e=>e!==`inset`&&!n.includes(e)).join(` `)}})}function He(e,t){let n=getComputedStyle(t).getPropertyValue(e).trim();if(!n||!CSS.supports(`color`,n))return{css:n,hex:null};let r=document.createElement(`canvas`);r.width=r.height=1;let i=r.getContext(`2d`,{colorSpace:`srgb`,willReadFrequently:!0});if(!i)return{css:n,hex:null};i.fillStyle=n,i.fillRect(0,0,1,1);let a=[...i.getImageData(0,0,1,1).data];return{css:n,hex:`#${a.slice(0,a[3]===255?3:4).map(e=>e.toString(16).padStart(2,`0`)).join(``)}`.toUpperCase()}}var Ue=e(`<span class="selection-check bg-surface-panel text-foreground svelte-5j8mh5"><!></span>`),$=e(`<button type="button"><span class="swatch-backdrop svelte-5j8mh5"><span class="color-swatch svelte-5j8mh5"><!></span></span> <span class="step-label font-mono text-xxs svelte-5j8mh5"> </span></button>`),We=e(`<section class="palette-row svelte-5j8mh5"><h3 class="flex items-center gap-2 text-sm font-semibold capitalize svelte-5j8mh5"><span class="size-2 shrink-0 rounded-full"></span> </h3> <div class="palette-scale svelte-5j8mh5"></div></section>`),Ge=e(`<div class="palette-list svelte-5j8mh5"></div>`);function Ke(e,t){E(t,!0);let a=I(()=>Fe(t.tokens,t.alpha));var u=Ge();T(u,21,()=>m(a),e=>e.family,(e,a)=>{var o=We(),u=N(o),d=N(u);let f;var p=b(d);i(u);var h=b(u,2);let _;T(h,21,()=>m(a).colors,e=>e.name,(e,a)=>{var o=$(),u=N(o),d=N(u);let f;var p=N(d),h=e=>{var t=Ue();W(N(t),{class:`size-3`}),i(t),c(e,t)};s(p,e=>{t.selected===m(a).name&&e(h)}),i(d),i(u);var _=b(u,2),v=N(_,!0);i(_),i(o),A(e=>{F(o,1,e,`svelte-5j8mh5`),x(o,`aria-label`,`Inspect ${m(a).name}`),x(o,`aria-pressed`,t.selected===m(a).name),x(o,`title`,m(a).name),f=g(d,``,f,{background:`var(${m(a).name})`}),r(v,m(a).step)},[()=>l(H(`color-step`,t.selected===m(a).name&&`is-selected`))]),n(`click`,o,()=>t.onselect(m(a))),c(e,o)}),i(h),i(o),A(()=>{x(o,`aria-label`,`${m(a).family} ${t.alpha?`alpha`:`solid`} palette`),f=g(d,``,f,{background:`var(--${m(a).family}-${t.alpha?`a9`:`9`})`}),r(p,` ${m(a).family??``}`),_=g(h,``,_,{"--steps":m(a).colors.length})}),c(e,o)}),i(u),c(e,u),o()}p([`click`]);var qe=e(`<!> `,1),Je=e(`<p class="text-xs text-negative" role="alert">Could not copy. Select and copy the value.</p>`),Ye=e(`<section class="inspector rounded-lg material-surface-primary-card svelte-fadm8w" aria-label="Selected color"><div class="inspector-heading flex items-center justify-between gap-2 svelte-fadm8w"><h2 class="text-sm font-semibold">Color details</h2> <!></div> <div class="inspector-swatch-backdrop svelte-fadm8w"><div class="inspector-swatch svelte-fadm8w"></div></div> <div class="inspector-body svelte-fadm8w"><div class="token-heading svelte-fadm8w"><span class="text-xs text-muted-foreground svelte-fadm8w"> </span> <h3 class="mt-1 font-mono text-base font-semibold break-all svelte-fadm8w"> </h3></div> <dl class="flex flex-col gap-4 svelte-fadm8w"><div class="value-row svelte-fadm8w"><div class="min-w-0"><dt class="text-xs text-muted-foreground">sRGB hex</dt> <dd class="mt-1 font-mono text-sm" data-color-hex=""> </dd></div> <!></div> <div class="value-row css-value svelte-fadm8w"><div class="min-w-0"><dt class="text-xs text-muted-foreground">Resolved CSS</dt> <dd class="mt-1 font-mono text-xs leading-relaxed break-words" data-color-css=""> </dd></div> <!></div></dl> <!> <!> <span class="sr-only" role="status"> </span></div></section>`);function Xe(e,t){E(t,!0);let n=new U,a=I(()=>X.find(e=>e.id===t.token.category)?.label),l=I(()=>n.copied&&n.lastCopied===`var(${t.token.name})`);O(()=>()=>n.resetCopied());var u=Ye(),d=N(u);de(b(N(d),2),{class:`size-4 text-icon-muted-foreground`}),i(d);var f=b(d,2),p=N(f);let h;i(f);var _=b(f,2),v=N(_),x=N(v),S=N(x,!0);i(x);var C=b(x,2),w=N(C,!0);i(C),i(v);var T=b(v,2),D=N(T),k=N(D),j=b(N(k),2),M=N(j,!0);i(j),i(k);var ee=b(k,2);{let e=I(()=>!t.value?.hex);V(ee,{tone:`neutral`,appearance:`ghost`,size:`sm`,iconOnly:!0,"aria-label":`Copy hex value`,get disabled(){return m(e)},onclick:()=>t.value?.hex&&n.copy(t.value.hex),children:(e,r)=>{var i=te(),a=y(i),o=e=>{W(e,{class:`size-4`})},l=e=>{J(e,{class:`size-4`})};s(a,e=>{n.copied&&n.lastCopied===t.value?.hex?e(o):e(l,-1)}),c(e,i)},$$slots:{default:!0}})}i(D);var P=b(D,2),F=N(P),L=b(N(F),2),R=N(L,!0);i(L),i(F);var z=b(F,2);{let e=I(()=>!t.value?.css);V(z,{tone:`neutral`,appearance:`ghost`,size:`sm`,iconOnly:!0,"aria-label":`Copy resolved CSS`,get disabled(){return m(e)},onclick:()=>t.value?.css&&n.copy(t.value.css),children:(e,r)=>{var i=te(),a=y(i),o=e=>{W(e,{class:`size-4`})},l=e=>{J(e,{class:`size-4`})};s(a,e=>{n.copied&&n.lastCopied===t.value?.css?e(o):e(l,-1)}),c(e,i)},$$slots:{default:!0}})}i(P),i(T);var B=b(T,2);V(B,{class:`w-full`,size:`md`,onclick:()=>n.copy(`var(${t.token.name})`),children:(e,t)=>{var n=qe(),i=y(n),a=e=>{W(e,{class:`size-4`})},o=e=>{J(e,{class:`size-4`})};s(i,e=>{m(l)?e(a):e(o,-1)});var u=b(i);A(()=>r(u,` ${m(l)?`Copied CSS variable`:`Copy CSS variable`}`)),c(e,n)},$$slots:{default:!0}});var ne=b(B,2),re=e=>{c(e,Je())};s(ne,e=>{n.status===`failure`&&e(re)});var H=b(ne,2),ie=N(H,!0);i(H),i(_),i(u),A(()=>{h=g(p,``,h,{background:`var(${t.token.name})`}),r(S,m(a)),r(w,t.token.name),r(M,t.value?.hex??`—`),r(R,t.value?.css||`—`),r(ie,n.copied?`Copied to clipboard`:``)}),c(e,u),o()}var Ze=e(`<span aria-hidden="true"><span></span></span>`);function Qe(e,t){E(t,!0);let n=w(t,`large`,3,!1),r=w(t,`ref`,15,null);var a=Ze(),s=N(a);let u;v(s,e=>r(e),()=>r()),i(a),A((e,n)=>{F(a,1,e,`svelte-zgwuiv`),u=F(s,1,`property-sample svelte-zgwuiv`,null,u,{"border-sample":t.token.property===`border-width`||t.token.property===`border-radius`}),g(s,n)},[()=>l(H(`property-stage`,n()&&`large`)),()=>ze(t.token)]),c(e,a),o()}var $e=e(`<div><dt class="text-xs text-muted-foreground"> </dt> <dd class="mt-1 font-mono text-xs break-words"> </dd></div>`),et=e(`<div><dt class="text-muted-foreground"> </dt> <dd class="mt-1 font-mono"> </dd></div>`),tt=e(`<div class="border-t border-divider-primary pt-3"><h4 class="mb-2 text-xs font-semibold"> </h4> <dl class="grid grid-cols-4 gap-2 text-xxs"><!> <div class="col-span-4"><dt class="text-muted-foreground">Color</dt> <dd class="mt-1 font-mono leading-relaxed break-words"> </dd></div></dl></div>`),nt=e(`<div class="px-2"><!></div> <div class="flex min-w-0 flex-col gap-4 p-4"><h3 class="font-mono text-sm font-semibold break-all"> </h3> <dl class="flex flex-col gap-3"><div><dt class="text-xs text-muted-foreground">CSS property</dt> <dd class="mt-1 font-mono text-xs"> </dd></div> <div><dt class="text-xs text-muted-foreground">Resolved value</dt> <dd class="mt-1 font-mono text-xs leading-relaxed break-words"> </dd></div> <!></dl> <!> <details class="border-t border-divider-primary pt-3"><summary class="cursor-pointer text-xs font-semibold">CSS declaration</summary> <pre class="mt-2 font-mono text-xxs leading-relaxed break-words whitespace-pre-wrap"> </pre></details></div>`,1),rt=e(`<!> `,1),it=e(`<p class="text-xs text-negative" role="alert">Could not copy. Select and copy the value.</p>`),at=e(`<section class="property-inspector flex min-h-0 flex-col overflow-hidden rounded-lg material-surface-primary-card svelte-1gmdgzu" aria-label="Selected property"><div class="flex shrink-0 items-center justify-between gap-2 p-4"><h2 class="text-sm font-semibold"> </h2> <!></div> <!> <div class="shrink-0 border-t border-divider-primary p-4"><!> <!> <span class="sr-only" role="status"> </span></div></section>`);function ot(e,t){E(t,!0);let n=P(null),a=P(``),l=P([]),u=new U,d=I(()=>ze(t.token)),f=I(()=>t.token.property===`box-shadow`?Ve(m(a)):[]);O(()=>()=>u.resetCopied()),ee(()=>{z.current,R.current;let e=m(n),r=t.token;if(!e)return;let i=requestAnimationFrame(()=>{let t=getComputedStyle(e);S(a,r.property===`border`?t.getPropertyValue(`border-top`):getComputedStyle(document.documentElement).getPropertyValue(r.name).trim(),!0);let n=r.property===`border`?[[`Rendered width`,`border-top-width`],[`Style`,`border-top-style`],[`Color`,`border-top-color`],[`Background clip`,`background-clip`]]:r.property===`border-width`?[[`Rendered width`,`border-top-width`]]:r.property===`border-radius`?[[`Rendered radius`,`border-top-left-radius`]]:[];S(l,n.map(([e,n])=>({label:e,value:t.getPropertyValue(n)})))});return()=>cancelAnimationFrame(i)});var p=at(),h=N(p),g=N(h),_=N(g,!0);i(g),de(b(g,2),{class:`size-4 text-icon-muted-foreground`}),i(h);var v=b(h,2);ae(v,{class:`min-h-0 flex-1`,viewportClasses:`h-full`,variant:`thin`,scrollFadeY:!1,children:(e,o)=>{var s=nt(),u=y(s);Qe(N(u),{get token(){return t.token},large:!0,get ref(){return m(n)},set ref(e){S(n,e,!0)}}),i(u);var p=b(u,2),h=N(p),g=N(h,!0);i(h);var _=b(h,2),v=N(_),x=b(N(v),2),C=N(x,!0);i(x),i(v);var w=b(v,2),E=b(N(w),2),D=N(E,!0);i(E),i(w),T(b(w,2),17,()=>m(l),e=>e.label,(e,t)=>{var n=$e(),a=N(n),o=N(a,!0);i(a);var s=b(a,2),l=N(s,!0);i(s),i(n),A(()=>{r(o,m(t).label),r(l,m(t).value)}),c(e,n)}),i(_);var O=b(_,2);T(O,18,()=>m(f),e=>e,(e,t,n)=>{var a=tt(),o=N(a),s=N(o);i(o);var l=b(o,2),u=N(l);T(u,17,()=>[{label:`X`,value:t.x},{label:`Y`,value:t.y},{label:`Blur`,value:t.blur},{label:`Spread`,value:t.spread}],e=>e.label,(e,t)=>{var n=et(),a=N(n),o=N(a,!0);i(a);var s=b(a,2),l=N(s,!0);i(s),i(n),A(()=>{r(o,m(t).label),r(l,m(t).value)}),c(e,n)});var d=b(u,2),f=b(N(d),2),p=N(f,!0);i(f),i(d),i(l),i(a),A(e=>{r(s,`Layer ${e??``} · ${t.inset?`Inset`:`Outer`}`),r(p,t.color)},[()=>le(m(n)+1,0)]),c(e,a)});var k=b(O,2),j=b(N(k),2),M=N(j,!0);i(j),i(k),i(p),A(()=>{r(g,t.token.name),r(C,t.token.property),r(D,m(a)||`Not defined in this theme`),r(M,m(d))}),c(e,s)},$$slots:{default:!0}});var x=b(v,2),C=N(x);V(C,{class:`w-full`,onclick:()=>u.copy(m(d)),children:(e,t)=>{var n=rt(),i=y(n),a=e=>{W(e,{class:`size-4`})},o=e=>{J(e,{class:`size-4`})};s(i,e=>{u.copied?e(a):e(o,-1)});var l=b(i);A(()=>r(l,` ${u.copied?`Copied CSS`:`Copy CSS`}`)),c(e,n)},$$slots:{default:!0}});var w=b(C,2),D=e=>{c(e,it())};s(w,e=>{u.status===`failure`&&e(D)});var k=b(w,2),j=N(k,!0);i(k),i(x),i(p),A(()=>{r(_,t.token.property===`box-shadow`?`Shadow details`:`Border details`),r(j,u.copied?`Copied to clipboard`:``)}),c(e,p),o()}var st=e(`<span class="svelte-1qgmlp8"></span>`),ct=e(`Components <!>`,1),lt=e(`<!> Light`,1),ut=e(`<!> Dark`,1),dt=e(`<div class="flex items-center gap-1" role="group" aria-label="Palette type"><!> <!></div>`),ft=e(`<div class="flex flex-col items-center gap-4 py-16"><!> <h3 class="text-base font-semibold">No matching tokens</h3> <!></div>`),pt=e(`<span class="semantic-backdrop svelte-1qgmlp8"><span class="semantic-swatch svelte-1qgmlp8"></span></span>`),mt=e(`<span class="semantic-backdrop svelte-1qgmlp8"><!></span>`),ht=e(`<button type="button"><!> <span class="block pt-2.5 font-mono text-xxs leading-relaxed break-all svelte-1qgmlp8"> </span></button>`),gt=e(`<div class="semantic-grid svelte-1qgmlp8"></div>`),_t=e(`<div class="color-library min-h-dvh bg-background-page text-foreground"><div class="color-ribbon svelte-1qgmlp8" aria-hidden="true"></div> <header class="library-header border-b border-divider-primary svelte-1qgmlp8"><a class="flex items-center gap-2.5" aria-label="Polyester color library"><!> <span class="text-lg font-semibold tracking-tight">polyester</span></a> <div class="flex items-center gap-2"><!> <!></div></header> <div class="library-content svelte-1qgmlp8"><div class="page-heading svelte-1qgmlp8"><div class="flex flex-wrap items-center gap-4"><h1 class="text-4xl font-semibold tracking-tight svelte-1qgmlp8">Color library</h1> <span class="token-total text-xs text-muted-foreground svelte-1qgmlp8"> </span></div> <div class="theme-controls svelte-1qgmlp8"><div class="w-28"><!></div> <div class="mode-switch rounded-lg bg-toggle-primary p-1 svelte-1qgmlp8" role="group" aria-label="Appearance"><!> <!></div></div></div> <div class="library-workspace svelte-1qgmlp8"><aside class="category-sidebar svelte-1qgmlp8"><div class="desktop-categories svelte-1qgmlp8"><div class="mb-4 flex items-center gap-2 px-3 text-xs text-muted-foreground"><!> Collections</div> <nav class="flex flex-col gap-1" aria-label="Color collections"></nav> <div class="mt-8 border-t border-divider-primary px-3 pt-4 text-xxs leading-relaxed text-muted-foreground"><span class="font-mono">@repo/styles</span> <div class="mt-2 flex items-center gap-1.5"><span class="size-1.5 rounded-full bg-status-new-success-solid"></span> Live
+							product tokens</div></div></div> <div class="mobile-categories svelte-1qgmlp8"><!></div></aside> <main class="min-w-0" aria-label="Color catalog"><!> <div class="collection-heading svelte-1qgmlp8"><div class="flex min-w-0 flex-wrap items-center gap-2"><h2 class="text-lg font-semibold tracking-tight"> </h2> <span class="text-xs text-muted-foreground" role="status"> </span></div> <!></div> <!></main> <aside class="inspector-column svelte-1qgmlp8"><!></aside></div> <footer class="library-footer border-t border-divider-primary text-xxs text-muted-foreground svelte-1qgmlp8"><span>Polyester / Color foundations</span> <span>OKLCH · Light & dark · Default, blue & warm</span></footer></div></div>`);function vt(e,u){E(u,!0);let f=w(u,`presentation`,3,se),p=Ne(De,Oe),h=[...p,...Re(De,Oe)],_=Fe(p,!1),C=ke.map(e=>({value:e.id,label:e.name})),D=Ie.map(e=>({value:e.id,label:e.label})),k=P(`palettes`),M=P(``),L=P(!1),U=P(j(p.find(e=>e.name===`--brand-9`))),ae=P(null),W=P(void 0),G=I(()=>m(M).trim().length>0),K=I(()=>h.filter(e=>Le(e,m(M))&&(m(G)||e.category===m(k))&&(m(G)||m(k)!==`palettes`||Q(e)&&e.alpha===m(L)))),ue=I(()=>m(G)?`Search results`:m(k)===`palettes`?`Primitive palettes`:Ie.find(e=>e.id===m(k)).label);O(()=>{let e=ne.current,t=R.current;return()=>{B(e),re(t??`default`)}}),ee(()=>{if(z.current,R.current,!Q(m(U)))return;let e=m(U).name,t=requestAnimationFrame(()=>{S(ae,He(e,document.documentElement))});return()=>cancelAnimationFrame(t)});function de(e){S(U,e,!0),window.matchMedia(`(max-width: 800px)`).matches&&m(W)?.scrollIntoView({block:`nearest`})}function fe(e){let t=Ie.find(t=>t.id===e);if(t){S(k,t.id,!0),S(M,``);let e=h.find(e=>e.category===t.id);e&&m(U).category!==t.id&&S(U,e,!0)}}var q=_t(),J=N(q);T(J,21,()=>_.filter(e=>e.family!==`gray`),e=>e.family,(e,t)=>{var n=st();let r;A(()=>r=g(n,``,r,{background:`var(--${m(t).family}-9)`})),c(e,n)}),i(J);var pe=b(J,2),Y=N(pe);Ee(N(Y),{class:`size-7 text-brand`}),t(2),i(Y);var he=b(Y,2),ge=N(he);ie(ge,{variant:`neutral`,size:`sm`,children:(e,n)=>{t(),c(e,d(`Design system`))},$$slots:{default:!0}}),V(b(ge,2),{get href(){return f().componentsHref},tone:`neutral`,appearance:`ghost`,size:`sm`,class:`gallery-link`,children:(e,n)=>{t();var r=ct();Ce(b(y(r)),{class:`size-3.5`}),c(e,r)},$$slots:{default:!0}}),i(he),i(pe);var ve=b(pe,2),ye=N(ve),xe=N(ye),Se=b(N(xe),2),we=N(Se);i(Se),i(xe);var Te=b(xe,2),X=N(Te),Ae=N(X),je=()=>R.current??`default`,Me=re;oe(Ae,{get options(){return C},get value(){return je()},set value(e){Me(e)},placeholder:`Color theme`,size:`sm`}),i(X);var Z=b(X,2),Pe=N(Z);{let e=I(()=>z.current===`light`?`soft`:`ghost`),n=I(()=>z.current===`light`);V(Pe,{tone:`neutral`,get appearance(){return m(e)},size:`sm`,get"aria-pressed"(){return m(n)},onclick:()=>B(`light`),children:(e,n)=>{var r=lt();_e(y(r),{class:`size-4`}),t(),c(e,r)},$$slots:{default:!0}})}var ze=b(Pe,2);{let e=I(()=>z.current===`dark`?`soft`:`ghost`),n=I(()=>z.current===`dark`);V(ze,{tone:`neutral`,get appearance(){return m(e)},size:`sm`,get"aria-pressed"(){return m(n)},onclick:()=>B(`dark`),children:(e,n)=>{var r=ut();me(y(r),{class:`size-4`}),t(),c(e,r)},$$slots:{default:!0}})}i(Z),i(Te),i(ye);var Be=b(ye,2),Ve=N(Be),Ue=N(Ve),$=N(Ue);be(N($),{class:`size-4`}),t(),i($);var We=b($,2);T(We,21,()=>Ie,e=>e.id,(e,n)=>{{let i=I(()=>!m(G)&&m(k)===m(n).id?`soft`:`ghost`),a=I(()=>!m(G)&&m(k)===m(n).id);V(e,{tone:`neutral`,get appearance(){return m(i)},class:`justify-start`,get"aria-pressed"(){return m(a)},onclick:()=>fe(m(n).id),children:(e,i)=>{t();var a=d();A(()=>r(a,m(n).label)),c(e,a)},$$slots:{default:!0}})}}),i(We),t(2),i(Ue);var Ge=b(Ue,2),qe=N(Ge),Je=()=>m(k),Ye=fe;oe(qe,{get options(){return D},get value(){return Je()},set value(e){Ye(e)},placeholder:`Color collection`,size:`sm`}),i(Ge),i(Ve);var Ze=b(Ve,2),$e=N(Ze);ce($e,{placeholder:`Search token names…`,"aria-label":`Search color tokens`,get value(){return m(M)},set value(e){S(M,e,!0)}});var et=b($e,2),tt=N(et),nt=N(tt),rt=N(nt,!0);i(nt);var it=b(nt,2),at=N(it,!0);i(it),i(tt);var vt=b(tt,2),yt=e=>{var n=dt(),r=N(n);{let e=I(()=>m(L)?`ghost`:`soft`),n=I(()=>!m(L));V(r,{size:`sm`,tone:`neutral`,get appearance(){return m(e)},get"aria-pressed"(){return m(n)},onclick:()=>S(L,!1),children:(e,n)=>{t(),c(e,d(`Solid`))},$$slots:{default:!0}})}var a=b(r,2);{let e=I(()=>m(L)?`soft`:`ghost`);V(a,{size:`sm`,tone:`neutral`,get appearance(){return m(e)},get"aria-pressed"(){return m(L)},onclick:()=>S(L,!0),children:(e,n)=>{t(),c(e,d(`Alpha`))},$$slots:{default:!0}})}i(n),c(e,n)};s(vt,e=>{m(k)===`palettes`&&!m(G)&&e(yt)}),i(et);var bt=b(et,2),xt=e=>{var n=ft(),r=N(n);be(r,{class:`size-8 text-icon-muted-foreground`}),V(b(r,4),{onclick:()=>S(M,``),children:(e,n)=>{t(),c(e,d(`Clear search`))},$$slots:{default:!0}}),i(n),c(e,n)},St=e=>{{let t=I(()=>m(K).filter(Q));Ke(e,{get tokens(){return m(t)},get alpha(){return m(L)},get selected(){return m(U).name},onselect:de})}},Ct=e=>{var t=gt();T(t,21,()=>m(K),e=>e.name,(e,t)=>{var a=ht(),o=N(a),u=e=>{var n=pt(),r=N(n);let a;i(n),A(()=>a=g(r,``,a,{background:`var(${m(t).name})`})),c(e,n)},d=I(()=>Q(m(t))),f=e=>{var n=mt();Qe(N(n),{get token(){return m(t)}}),i(n),c(e,n)};s(o,e=>{m(d)?e(u):e(f,-1)});var p=b(o,2),h=N(p,!0);i(p),i(a),A(e=>{F(a,1,e,`svelte-1qgmlp8`),x(a,`aria-label`,`Inspect ${m(t).name}`),x(a,`aria-pressed`,m(U).name===m(t).name),r(h,m(t).name)},[()=>l(H(`semantic-token`,m(U).name===m(t).name&&`is-selected`))]),n(`click`,a,()=>de(m(t))),c(e,a)}),i(t),c(e,t)};s(bt,e=>{m(K).length===0?e(xt):m(k)===`palettes`&&!m(G)?e(St,1):e(Ct,-1)}),i(Ze);var wt=b(Ze,2);a(N(wt),()=>m(U).name,e=>{var t=te(),n=y(t),r=e=>{Xe(e,{get token(){return m(U)},get value(){return m(ae)}})},i=I(()=>Q(m(U))),a=e=>{ot(e,{get token(){return m(U)}})};s(n,e=>{m(i)?e(r):e(a,-1)}),c(e,t)}),i(wt),v(wt,e=>S(W,e),()=>m(W)),i(Be),t(2),i(ve),i(q),A((e,t)=>{x(Y,`href`,f().colorsHref),r(we,`${e??``} tokens`),r(rt,m(ue)),r(at,t)},[()=>le(h.length,0),()=>le(m(K).length,0)]),c(e,q),o()}p([`click`]);function yt(e,t){E(t,!1),M(),u(`f1j3j9`,e=>{k(()=>{D.title=`Colors · Polyester design library`})});{let t=_(()=>G(L));vt(e,{get presentation(){return m(t)}})}o()}export{yt as component};
